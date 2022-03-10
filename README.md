@@ -1,6 +1,6 @@
 # 🐶 About ExpertDoge
 
-## ![](<.gitbook/assets/expert doge (3).png>)EXPERTDOGE
+## ![](<.gitbook/assets/expert doge (3).png>)            EXPERTDOGE
 
 Expert doge is an expert token that will reach the moon. How does ?We created this token on Binance Smart Chain. We want to make this project as transparent and fair as possible for every investor
 

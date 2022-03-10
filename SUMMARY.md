@@ -16,6 +16,6 @@
   * [Q3 (Phase 4) : 2022](roadmap/q3-phase-4-2022.md)
 * [📊 Tokenomics](tokenomics.md)
 
-## The Formal Stuff
+## ☎ informational
 
-* [Contact](the-formal-stuff/contact.md)
+* [Contact](informational/contact.md)
