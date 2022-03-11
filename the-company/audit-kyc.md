@@ -1,9 +1,10 @@
 # 🦺 AUDIT / KYC
 
-✅In the AUDIT verification process by solidproof&#x20;
+✅Audited is under by solidproof.io&#x20;
 
-✅In the KYC verification process by solidproof
+[https://github.com/solidproof/projects/blob/main/Expert%20Doge/SmartContract\_Audit\_Solidproof\_Expertdoge.pdf](https://github.com/solidproof/projects/blob/main/Expert%20Doge/SmartContract\_Audit\_Solidproof\_Expertdoge.pdf)
 
+✅KYC is under verified by solidproof.io
 
+![](../.gitbook/assets/Audit\_Certificate\_Solidproof\_ExpertDoge.png)
 
-![](../.gitbook/assets/solidproof.png)
